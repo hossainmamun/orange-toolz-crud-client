@@ -33,6 +33,8 @@ const Login = () => {
         <div>
             <div className='container text-center'>
                 <h2 className='my-5 text-capitalize'>welcome to the admin panel</h2>
+                <h4>admin@gmail.com</h4>
+                <h4>admin123</h4>
 
                 <div className='row justify-content-center'>
                     <div className="col-md-6">
