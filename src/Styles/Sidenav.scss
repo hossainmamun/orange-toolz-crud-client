@@ -1,0 +1,22 @@
+.sidebar {
+    text-align: center;
+    min-height: 100vh;
+    .sidebar-link {
+        text-transform: capitalize;
+        display: block;
+        color: #000;
+        text-decoration: none;
+        border: 1px solid grey;
+        padding: 10px;
+        margin: 20px auto;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    }
+
+    .sidebar-link-active{
+        background-color: #76C044;
+    }
+} 
